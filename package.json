@@ -24,7 +24,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/720kb/angular-socialshare.git"
+    "url": "https://github.com/hokustalkshow/pl-angular-socialshare.git"
   },
   "license": "MIT",
   "devDependencies": {
